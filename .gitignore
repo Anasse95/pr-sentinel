@@ -1,9 +1,14 @@
 .venv/
+.env
 __pycache__/
 *.pyc
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
 .coverage
-.env
+coverage.xml
+htmlcov/
+dist/
+build/
+*.egg-info/
 notes/
